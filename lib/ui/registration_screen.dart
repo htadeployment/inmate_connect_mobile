@@ -5,6 +5,8 @@ import '../models/user.dart';
 import '../utils/validators.dart';
 import 'otp_screen.dart';
 
+
+//registration_screen
 class RegistrationScreen extends StatefulWidget {
   const RegistrationScreen({super.key});
 
