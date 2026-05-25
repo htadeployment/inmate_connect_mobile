@@ -11,6 +11,7 @@ class OtpScreen extends StatefulWidget {
   State<OtpScreen> createState() => _OtpScreenState();
 }
 
+//OTP Screen
 class _OtpScreenState extends State<OtpScreen> {
   final List<TextEditingController> _digits = List.generate(4, (_) => TextEditingController());
   final List<FocusNode> _focusNodes = List.generate(4, (_) => FocusNode());
