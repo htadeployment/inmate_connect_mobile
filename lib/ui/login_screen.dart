@@ -5,6 +5,7 @@ import '../utils/validators.dart';
 import 'registration_screen.dart';
 import 'search_screen.dart';
 
+//login Screen
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});
 
